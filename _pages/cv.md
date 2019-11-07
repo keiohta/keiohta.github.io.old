@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+日本語テスト
 Education
 ======
 * B.S. in Aerospace Engineering, Tokyo Institute of Technology, 2015
