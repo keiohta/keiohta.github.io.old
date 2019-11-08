@@ -16,10 +16,8 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 11/2013 ~ 6/2016: Internship
+  * [AxelSpace](https://www.axelspace.com/)
 
 Skills
 ======
