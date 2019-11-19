@@ -9,3 +9,4 @@ redirect_from:
 ---
 
 This is Kei Ota's home on the web!
+
