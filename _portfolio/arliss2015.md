@@ -1,0 +1,10 @@
+---
+title: "CanSat 2015"
+excerpt: "<br/><img src='/images/500x300.png'>"
+collection: portfolio
+---
+
+[2013年]()、[2014年]()に引き続きTA & 電装系担当として参加。
+
+## ARLISS2015
+当時の記録がほとんど残っていない...

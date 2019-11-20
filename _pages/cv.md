@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 ## Education
 - B.S. in Aerospace Engineering, Tokyo Institute of Technology, 2015
 - M.S. in Mechanical and Aerospace Engineering, Tokyo Institute of Technology, 2017
@@ -138,10 +139,10 @@ redirect_from:
 11. **太田佳**，"超小型衛星TSUBAMEのC&DH系軌道上運用結果と技術課題", University Space Engineering Consortium Workshop (UNISEC-WS 2015)，東京，2015年12月5-6日．
 12. **太田 佳**，古賀 将哉，鈴木 聡太，松永 三郎，"超小型衛星TSUBAMEのC&DH系の軌道上評価と技術課題"，第59回宇宙科学技術連合講演会，JSASS-2015-4358，2I06，鹿児島，2015年10月7-9日．
 13. 古賀将哉, 松下将典, 河尻翔太, 長洲孝, 鈴木聡太, 俵京佑, 宮里和良, **太田佳**, 下中淳史, Hao Ting, Kim EuGene, 木村真一, 谷津陽一, 松永三郎, "小型衛星開発プログラム活動報告", 2015年1月6-7日，第15回宇宙科学シンポジウム
-14. **太田佳**，河尻翔太，宮里和良，古賀将哉，谷津陽一，松永三郎，"複数地上局を用いた超小型衛星用自動運用システムの提案", 第23回スペース・エンジニアリング・コンファレンス，E06，羽咋，2014年12月19-20日．
-15. 俵京佑，河尻翔太，長洲孝，松下将典，鈴木聡太，宮里和良，**太田佳**，古賀将哉，金柔真，カクテイ，松永三郎，"東工大 ISAS/JAXA 松永研究室 小型衛星プログラム 2014"，University Space Engineering Consortium Workshop (UNISEC-WS 2014)，堺，2014年12月6-7日．
-16. **太田佳**，"複数地上局を用いた超小型衛星用自動運用システムの開発"", University Space Engineering Consortium Workshop (UNISEC-WS 2014), 堺，2014年12月6-7日．
-17. 松下将典，河尻翔太，長洲孝，宮里知良，鈴木聡太，俵京佑，キムユージン，**太田佳**，古賀将哉，下中淳史，カクテイ，栗田真，森山長久，有元誠，谷津陽一，木村真一，松永三郎，"超小型衛星TSUBAMEのフライトモデル開発とクリティカルフェーズ運用"，5th UNISEC Space Takumi Conference，UNISEC 2014-003，相模原，2014年12月26日．
+14. 松下将典，河尻翔太，長洲孝，宮里知良，鈴木聡太，俵京佑，キムユージン，**太田佳**，古賀将哉，下中淳史，カクテイ，栗田真，森山長久，有元誠，谷津陽一，木村真一，松永三郎，"超小型衛星TSUBAMEのフライトモデル開発とクリティカルフェーズ運用"，5th UNISEC Space Takumi Conference，UNISEC 2014-003，相模原，2014年12月26日．
+15. **太田佳**，河尻翔太，宮里和良，古賀将哉，谷津陽一，松永三郎，"複数地上局を用いた超小型衛星用自動運用システムの提案", 第23回スペース・エンジニアリング・コンファレンス，E06，羽咋，2014年12月19-20日．
+16. 俵京佑，河尻翔太，長洲孝，松下将典，鈴木聡太，宮里和良，**太田佳**，古賀将哉，金柔真，カクテイ，松永三郎，"東工大 ISAS/JAXA 松永研究室 小型衛星プログラム 2014"，University Space Engineering Consortium Workshop (UNISEC-WS 2014)，堺，2014年12月6-7日．
+17. **太田佳**，"複数地上局を用いた超小型衛星用自動運用システムの開発"", University Space Engineering Consortium Workshop (UNISEC-WS 2014), 堺，2014年12月6-7日．
 
 ## Journal publications
 
@@ -159,11 +160,11 @@ redirect_from:
 
 ## Projects
 
-- TSUBAME: Satellite Development
+- [TSUBAME](<https://www.titech.ac.jp/news/2014/028766.html>): Micro-satellite
   - Control & Data Handling (C&DH)
   - Project Manager
   - Satellite Operation
-- DLAS: Deep Learning 
+- [DLAS](<http://www.hp.phys.titech.ac.jp/yatsu/DLAS/links.html>): Deep Learning Attitude Sensor
   - Onboard-Image Classification
   - DLAS:
   - 深層学習を応用した革新的姿勢センサ（DLAS）開発（2016年2月〜2019年1月）：プロジェクトマネージャ，衛星画像識別SW開発を担当．現在軌道上実証中．
