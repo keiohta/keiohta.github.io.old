@@ -112,10 +112,6 @@ redirect_from:
         </td>
     </tr>
 </table>
-
-
-
-
 ## Publications
 ### International Conference
 
@@ -152,7 +148,6 @@ redirect_from:
 
 - 2013 <u>First place</u> in ARLISS 2013
 - 2013 <u>First place</u> in 1st AxelSpace Cup
-- 2014 <u>First place</u> in ARLISS 2014
 - 2014 <u>First place</u> in 17th RobotGrandPrix
 - 2014 <u>First place</u> in 22nd Satellite Design Contest, Idea Award
 - 2015 <u>First place</u> in 4th Project Management Award
@@ -160,12 +155,10 @@ redirect_from:
 
 ## Projects
 
-- [TSUBAME](<https://www.titech.ac.jp/news/2014/028766.html>): Micro-satellite
-  - Control & Data Handling (C&DH)
-  - Project Manager
-  - Satellite Operation
-- [DLAS](<http://www.hp.phys.titech.ac.jp/yatsu/DLAS/links.html>): Deep Learning Attitude Sensor
-  - Onboard-Image Classification
-  - DLAS:
-  - 深層学習を応用した革新的姿勢センサ（DLAS）開発（2016年2月〜2019年1月）：プロジェクトマネージャ，衛星画像識別SW開発を担当．現在軌道上実証中．
-- CEATEC JAPAN 2018：モデルベースAIを用いた機器制御においてコアアルゴリズム開発を担当
+- [地球・天体観測衛星 TSUBAME](<https://www.titech.ac.jp/news/2014/028766.html>)
+  - Control & Data Handling (C&DH) 系の開発を担当
+  - 人工衛星の自動運用システム構築
+  - 2014/11/6打上げ、現在運用終了
+- [DLAS: Deep Learning Attitude Sensor](<http://www.hp.phys.titech.ac.jp/yatsu/DLAS/links.html>)
+  - C++でオンボード衛星画像分類アプリケーション開発
+  - 2019/1/18打上げ、現在軌道上実証中

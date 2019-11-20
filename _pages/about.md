@@ -10,4 +10,5 @@ redirect_from:
 
 This is Kei Ota's home on the web!
 
-Sorry some pages are described only by Japanese. (English will be supported)
+Sorry some pages are written only in Japanese.
+
