@@ -15,4 +15,3 @@ collection: portfolio
 チャーハンロボットではハンドの部分にしゃもじをつけてサーボモータで振り回していたけど、その前のPick and Placeに似たプロジェクトで空気圧シリンダを使ったハンドも製作した。
 <img src="/images/131121_robot_arm.jpg">
 <img src="/images/131124_robot_hand.jpg">
-

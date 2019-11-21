@@ -19,7 +19,7 @@ redirect_from:
 
 ## Code
 
-- [TF2RL](<https://github.com/keiohta/tf2rl>): A TensorFlow 2.0 Deep Reinforcement Learning library
+- [TF2RL](<https://github.com/keiohta/tf2rl>): a Deep Reinforcement Learning library written in TensorFlow2.0
 
 ## Skills
 
@@ -145,20 +145,12 @@ redirect_from:
 1. 毬山利貞，**太田佳**，"技術解説「強化学習の基礎と実用化に向けた課題」"，映像情報メディア学会誌，2019年3月号．
 
 ## Awards
-
 - 2013 <u>First place</u> in ARLISS 2013
 - 2013 <u>First place</u> in 1st AxelSpace Cup
 - 2014 <u>First place</u> in 17th RobotGrandPrix
 - 2014 <u>First place</u> in 22nd Satellite Design Contest, Idea Award
 - 2015 <u>First place</u> in 4th Project Management Award
-- 2014 <u>First place</u> in 23rd Satellite Design Contest, Design Award
+- 2015 <u>First place</u> in 23rd Satellite Design Contest, Design Award
 
 ## Projects
-
-- [地球・天体観測衛星 TSUBAME](<https://www.titech.ac.jp/news/2014/028766.html>)
-  - Control & Data Handling (C&DH) 系の開発を担当
-  - 人工衛星の自動運用システム構築
-  - 2014/11/6打上げ、現在運用終了
-- [DLAS: Deep Learning Attitude Sensor](<http://www.hp.phys.titech.ac.jp/yatsu/DLAS/links.html>)
-  - C++でオンボード衛星画像分類アプリケーション開発
-  - 2019/1/18打上げ、現在軌道上実証中
+Please check [portfolio](https://keiohta.github.io/portfolio/)!
