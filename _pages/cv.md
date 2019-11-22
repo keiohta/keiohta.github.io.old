@@ -112,6 +112,7 @@ redirect_from:
         </td>
     </tr>
 </table>
+
 ## Publications
 ### International Conference
 
@@ -120,29 +121,7 @@ redirect_from:
 3. Yuhei Kikuya, Masanori Matsushita, Masaya Koga, **Kei Ohta**, Yuki Hayashi, Takehiko Koike, Toshiki Ozawa, Yoichi Yatsu, and Saburo Matunaga ,"Fault Tolerant Circuit Design for Low-cost and Multi-Functional Attitude Sensor Using Real-time Image Recognition," *31st International Symposium on Space Technology and Science*, 2017-f-093, Matsuyama, Japan, June 3-9, 2017.
 4. **Kei Ohta**, Masaya Koga, Sota Suzuki, Kazuyoshi Miyasato, Shota Kawajiri, EuGene Kim and Saburo Matunaga, "Proposal and Results of an Automatic Operation System for Nano Satellites Using Multiple Ground Stations", 30th International Symposium on Space Technology and Science, 2015-j-19, Kobe, Japan, July 6-10, 2015.
 
-### Domestic Conference
-
-1. 北村俊徳，佐々木洋子，**太田佳**，滑川徹，"強化学習とMPCを用いた人混みでの移動ロボットの動作生成"，ロボティクスシンポジア，2020
-2. 小林卓矢，澤健太郎，角武憲，**太田佳**，山内尚久，"Q-Learning を用いた無線メッシュネットワークの通信性能評価"，信学技報，2019．
-3. 俵京佑，針田聖平，河尻翔太，松下将典，吉井健敏，**太田佳**，古賀将哉，渡邉輔祐太，菊谷侑平，林雄希，小池毅彦，新谷勇介，谷津陽一，河合誠之，松永三郎，"50kg級技術実証衛星「ひばり」－形状可変姿勢制御と重力波対応天体観測"，第17回宇宙科学シンポジウム，P-147，相模原，2017年1月5-6日．
-4. 吉井健敏, **太田佳**, 松下将典, 菊谷侑平, 林雄希, 小池毅彦, 新谷勇介, 針田聖平, 小澤俊貴, 下川辺隆史, 谷津陽一, 河合誠之, 松永三郎, "深層学習を用いた新しい衛星姿勢決定方法の開発", 第17回宇宙科学シンポジウム, P-161, 相模原，2017年1月5-6日．
-5. **太田佳**，小池毅彦，谷津陽一，松永三郎，"オンボード衛星画像分類のための機械学習手法の比較検討"，第25回スペース・エンジニアリング・コンファレンス，1B1，山口，2016年12月21-22日．
-6. 菊谷侑平，河尻翔太，松下将典，俵京佑，**太田佳**，古賀将哉，渡邉輔祐太，林雄希，小池毅彦，新谷勇介，松永三郎，"東工大 松永研究室 小型衛星開発プログラム 2016"，University Space Engineering Consortium Workshop (UNISEC-WS 2016)，東京，2016年12月10-11日．
-7. **太田佳**，谷津陽一，松永三郎，"深層学習を用いた軌道上実時間衛星画像分類"，第60回宇宙科学技術連合講演会，JSASS-2016-4628，4G10，函館，2016年9月6-9日．
-8. 谷津陽一，吉井健敏，村木雄太郎，針田聖平，**太田佳**，松永三郎，下川辺隆史，"深層学習を応用した革新的姿勢センサの実証"，第60回宇宙科学技術連合講演会，JSASS-2016-4616，4F12，函館，2016年9月6-9日.
-9. 松下将典，河尻翔太，鈴木聡太，俵京佑，宮里和良，**太田佳**，古賀将哉，渡邉輔祐太，栗田真，有元誠，谷津陽一，森山永久，木村真一，松永三郎，"50kg級衛星TSUBAMEプロジェクトの総合報告－開発と軌道上運用からの教訓－"，第16回宇宙科学シンポジウム，P-059，相模原，2016年1月6-7日．
-10. 渡邉輔祐太，**太田佳**，古賀将哉，宮里知良，鈴木聡太，俵京介，河尻翔太，松下将典，近藤尚登，佐々木謙一，松永三郎，"東京工業大学 ISAS/JAXA 松永研究室 活動報告 ～地球・天体観測技術実証衛星「TSUBAME」の総括と次期衛星開発プロジェクト～"，University Space Engineering Consortium Workshop (UNISEC-WS 2015) ，東京，2015年12月5-6日．
-11. **太田佳**，"超小型衛星TSUBAMEのC&DH系軌道上運用結果と技術課題", University Space Engineering Consortium Workshop (UNISEC-WS 2015)，東京，2015年12月5-6日．
-12. **太田 佳**，古賀 将哉，鈴木 聡太，松永 三郎，"超小型衛星TSUBAMEのC&DH系の軌道上評価と技術課題"，第59回宇宙科学技術連合講演会，JSASS-2015-4358，2I06，鹿児島，2015年10月7-9日．
-13. 古賀将哉, 松下将典, 河尻翔太, 長洲孝, 鈴木聡太, 俵京佑, 宮里和良, **太田佳**, 下中淳史, Hao Ting, Kim EuGene, 木村真一, 谷津陽一, 松永三郎, "小型衛星開発プログラム活動報告", 2015年1月6-7日，第15回宇宙科学シンポジウム
-14. 松下将典，河尻翔太，長洲孝，宮里知良，鈴木聡太，俵京佑，キムユージン，**太田佳**，古賀将哉，下中淳史，カクテイ，栗田真，森山長久，有元誠，谷津陽一，木村真一，松永三郎，"超小型衛星TSUBAMEのフライトモデル開発とクリティカルフェーズ運用"，5th UNISEC Space Takumi Conference，UNISEC 2014-003，相模原，2014年12月26日．
-15. **太田佳**，河尻翔太，宮里和良，古賀将哉，谷津陽一，松永三郎，"複数地上局を用いた超小型衛星用自動運用システムの提案", 第23回スペース・エンジニアリング・コンファレンス，E06，羽咋，2014年12月19-20日．
-16. 俵京佑，河尻翔太，長洲孝，松下将典，鈴木聡太，宮里和良，**太田佳**，古賀将哉，金柔真，カクテイ，松永三郎，"東工大 ISAS/JAXA 松永研究室 小型衛星プログラム 2014"，University Space Engineering Consortium Workshop (UNISEC-WS 2014)，堺，2014年12月6-7日．
-17. **太田佳**，"複数地上局を用いた超小型衛星用自動運用システムの開発"", University Space Engineering Consortium Workshop (UNISEC-WS 2014), 堺，2014年12月6-7日．
-
-## Journal publications
-
-1. 毬山利貞，**太田佳**，"技術解説「強化学習の基礎と実用化に向けた課題」"，映像情報メディア学会誌，2019年3月号．
+See all publications [here](/publications/).
 
 ## Awards
 - 2013 <u>First place</u> in ARLISS 2013
