@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Kei Ota"
-  avatar           : "profile.png"
-  bio              : "Researcher for reinforcement learning and robotics"
-  location         : "Kanagawa"
+  avatar           : "2018-03-31_720x720.jpg" # "2018-03-31.JPG"
+  bio              : "Reinforcement Learning and Robotics Researcher"
+  location         : "Tokyo, Japan"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.co.jp/citations?user=9JHthRAAAAAJ&hl"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : # "https://scholar.google.co.jp/citations?user=9JHthRAAAAAJ&hl"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
