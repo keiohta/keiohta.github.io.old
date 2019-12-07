@@ -64,3 +64,30 @@ Successfully installed mujoco-py-2.0.2.9
 ```bash
 $ python -c "import mujoco_py"
 ```
+
+###  BlockingIOError
+
+ロックを確保しようとするが失敗している模様で、いつまで経ってもプロセスが進まない。
+
+```python
+$ python -c 'import mujoco_py'
+...
+self.trylock()
+  File "/Users/ohtake_i/anaconda3/envs/tf2/lib/python3.7/site-packages/fasteners/process_lock.py", line 217, in trylock
+    self._trylock(self.lockfile)
+  File "/Users/ohtake_i/anaconda3/envs/tf2/lib/python3.7/site-packages/fasteners/process_lock.py", line 250, in _trylock
+    fcntl.lockf(lockfile, fcntl.LOCK_EX | fcntl.LOCK_NB)
+BlockingIOError: [Errno 35] Resource temporarily unavailable
+```
+
+Twitter上で同じ現象に苦しむKSさんを発見。
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">import mujoco_py とか環境作ろうとすると出る&quot;PermissonError: [Errno 13] Permission denied: &#39;..../mujoco_py/generated/mujocopy-buildlock&quot;ってエラーマジでどうしたらええのん<br>指定されたディレクトリ見に行ってもそんなlockファイルないし</p>&mdash; KS (@63556poiuytrewq) <a href="https://twitter.com/63556poiuytrewq/status/1201124564232572928?ref_src=twsrc%5Etfw">December 1, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+解決方法は以下。
+
+```bash
+$ cd /path/to/mujoco_py
+$ pip install -e .
+```
+

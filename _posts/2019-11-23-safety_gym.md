@@ -61,7 +61,7 @@ $ python run_ddpg_safegym.py --evaluate --model-dir /path/to/results --test-epis
 
 `env.reset()` を呼ぶたびに障害物の位置が変わり、衝突するときにエージェントが赤色で表示されるようになっている。分かりやすくてありがたい。
 
-![demo](/images/191123_safegym_gif0.gif)![demo](/images/191123_safegym_gif1.gif)![demo](/images/191123_safegym_gif2.gif)
+![](/images/191123_safegym_gif0.gif)![](/images/191123_safegym_gif1.gif)![](/images/191123_safegym_gif2.gif)
 
 ## Hack
 
