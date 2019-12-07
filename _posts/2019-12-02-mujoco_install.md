@@ -41,9 +41,6 @@ $ brew install glfw
 
 ```bash
 $ find /usr/local -name libglfw*
-/usr/local/lib/libglfw.dylib
-/usr/local/lib/libglfw.3.dylib
-/usr/local/lib/libglfw.3.3.dylib
 /usr/local/Cellar/glfw/3.3/lib/libglfw.dylib
 /usr/local/Cellar/glfw/3.3/lib/libglfw.3.dylib
 /usr/local/Cellar/glfw/3.3/lib/libglfw.3.3.dylib
@@ -52,7 +49,7 @@ $ find /usr/local -name libglfw*
 **ライブラリパスを指定して**mujoco-pyをインストール
 
 ```bash
-$ LIBRARY_PATH=/usr/local/lib pip install mujoco-py
+$ LIBRARY_PATH=/usr/local/Cellar/glfw/3.3/lib/ pip install mujoco-py
 ...
 Successfully built mujoco-py
 Installing collected packages: mujoco-py
@@ -65,7 +62,7 @@ Successfully installed mujoco-py-2.0.2.9
 $ python -c "import mujoco_py"
 ```
 
-###  BlockingIOError
+###  BlockingIOError (2019/12/7)
 
 ロックを確保しようとするが失敗している模様で、いつまで経ってもプロセスが進まない。
 
