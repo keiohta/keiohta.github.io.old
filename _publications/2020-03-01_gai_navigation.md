@@ -24,7 +24,7 @@ Then, how to exploit the waypoints? We use the similar technique with our [previ
 We tested our method on recently proposed [Safety Gym](https://openai.com/blog/safety-gym/), which easily allows to produce different environments with various types of obstacles, and also provides three types of robots (point, car, and doggo). The results shows the sample efficiency is improved.
 
 <center><img src="/images/2003_gai_results.png" width="750"></center><br>
-Also, we saw our method also improves generalization capability. We prepared four different types of unseen environments and evaluate goal reach rate and steps to reach goals.
+Next, we demonstrated our method also improves generalization capability. We prepared four different types of unseen environments and evaluate goal reach rate and steps to reach goals.
 
 <center><img src="/images/2003_gai_envs.png" width="750"><br><img src="/images/2003_gai_generalization_table.png" width="750"></center><br>
 If you are interested in our paper, please check [our paper](https://arxiv.org/abs/2003.01641) for more details!
