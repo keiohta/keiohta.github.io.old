@@ -19,4 +19,6 @@ Recently, I have been researching following topics:
 Previously, I researched in the area of mechanical and aerospace engineering.
 Please check [portfolio](/portfolio/) pages, where I summarized some robots and artificial satellites I developed.
 
-Sorry currently some pages are written only in Japanese.
+## NEWS
+- Our paper "Can Increasing Input Dimensionality Improve Deep Reinforcement Learning?" was accpeted to ICML2020!
+- Our paper "Trajectory Optimization for Unknown Constrained Systems using Reinforcement Learning" was accepted to IROS2019!
