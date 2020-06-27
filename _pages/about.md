@@ -20,5 +20,5 @@ Previously, I researched in the area of mechanical and aerospace engineering.
 Please check [portfolio](/portfolio/) pages, where I summarized some robots and artificial satellites I developed.
 
 ## NEWS
-- Our paper "Can Increasing Input Dimensionality Improve Deep Reinforcement Learning?" was accpeted to ICML2020!
-- Our paper "Trajectory Optimization for Unknown Constrained Systems using Reinforcement Learning" was accepted to IROS2019!
+- Our paper "[Can Increasing Input Dimensionality Improve Deep Reinforcement Learning?](https://keiohta.github.io/publications/2020-02-06_ofe)" was accpeted to ICML2020!
+- Our paper "[Trajectory Optimization for Unknown Constrained Systems using Reinforcement Learning](https://keiohta.github.io/publications/2019-11-04_iros)" was accepted to IROS2019!
