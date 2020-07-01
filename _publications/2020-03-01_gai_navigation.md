@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2020-03-01_gai_navigation
 excerpt: 'This paper proposes to **decouple planning and control** by combining traditional path planning algorithms, supervised learning (SL) and reinforcement learning (RL) algorithms in a synergistic way. By exploiting waypoints produced from SL, an RL agent easily learns to navigate to arbitrary goal locations, and generalize to novel environments.<br/><center><img src="/images/2003_gai_proposed_method.png" width="750"></center>'
 date: 2020-03-01
-venue: 'arXiv'
+venue: 'IROS'
 paperurl: 'https://arxiv.org/abs/2003.01641'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---

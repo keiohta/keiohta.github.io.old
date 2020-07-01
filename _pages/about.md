@@ -19,6 +19,7 @@ Recently, I have been researching following topics:
 Previously, I researched in the area of mechanical and aerospace engineering.
 Please check [portfolio](/portfolio/) pages, where I summarized some robots and artificial satellites I developed.
 
-## NEWS
+## News
+- Our paper "[Efficient Exploration in Constrained Environments with Goal-Oriented Reference Path](https://keiohta.github.io/publications/2020-03-01_gai_navigation)" was accpeted to IROS2020!
 - Our paper "[Can Increasing Input Dimensionality Improve Deep Reinforcement Learning?](https://keiohta.github.io/publications/2020-02-06_ofe)" was accpeted to ICML2020!
 - Our paper "[Trajectory Optimization for Unknown Constrained Systems using Reinforcement Learning](https://keiohta.github.io/publications/2019-11-04_iros)" was accepted to IROS2019!
