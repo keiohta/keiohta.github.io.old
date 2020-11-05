@@ -20,12 +20,13 @@ author_profile: true
 ## All publications
 ### International conference
 
+1. **Kei Ota**, Devesh K. Jha, Tadashi Onishi, Asako Kanezaki, Yusuke Yoshiyasu, Yoko Sasaki, Toshisada Mariyama, Daniel Nikovski, “Deep Reactive Planning in Dynamic Environments”, CoRL2020. [arXiv](https://arxiv.org/abs/2011.00155).
 1. **Kei Ota**, Yoko Sasaki, Devesh K Jha, Yusuke Yoshiyasu, Asako Kanezaki, “Efficient Exploration in Constrained Environments with Goal-Oriented Reference Path”, IROS2020. [arXiv](https://arxiv.org/abs/2003.01641).
-2. **Kei Ota**, Tomoaki Oiki, Devesh K. Jha, Toshisada Mariyama, Daniel Nikovski, “Can Increasing Input Dimensionality Improve Deep Reinforcement Learning?”, ICML2020. [arXiv](https://arxiv.org/abs/2003.01629).
-3. **Kei Ota**, Devesh K. Jha, Tomoaki Oiki, Mamoru Miura, Takashi Nammoto, Daniel Nikovski, Toshisada Mariyama, “Trajectory Optimization for Unknown Constrained Systems using Reinforcement Learning”, IROS2019. [arXiv](https://arxiv.org/abs/1903.05751).
-4. **Kei Ohta**, Takehiko Koike, Yoichi Yatsu, and Saburo Matunaga, "On-board Satellite Imagery Classification using Convolutional Neural Networks," 31st International Symposium on Space Technology and Science, 2017-n-10, Matsuyama, Japan, June 3-9, 2017.
-5. Yuhei Kikuya, Masanori Matsushita, Masaya Koga, **Kei Ohta**, Yuki Hayashi, Takehiko Koike, Toshiki Ozawa, Yoichi Yatsu, and Saburo Matunaga ,"Fault Tolerant Circuit Design for Low-cost and Multi-Functional Attitude Sensor Using Real-time Image Recognition," *31st International Symposium on Space Technology and Science*, 2017-f-093, Matsuyama, Japan, June 3-9, 2017.
-6. **Kei Ohta**, Masaya Koga, Sota Suzuki, Kazuyoshi Miyasato, Shota Kawajiri, EuGene Kim and Saburo Matunaga, "Proposal and Results of an Automatic Operation System for Nano Satellites Using Multiple Ground Stations", 30th International Symposium on Space Technology and Science, 2015-j-19, Kobe, Japan, July 6-10, 2015.
+1. **Kei Ota**, Tomoaki Oiki, Devesh K. Jha, Toshisada Mariyama, Daniel Nikovski, “Can Increasing Input Dimensionality Improve Deep Reinforcement Learning?”, ICML2020. [arXiv](https://arxiv.org/abs/2003.01629).
+1. **Kei Ota**, Devesh K. Jha, Tomoaki Oiki, Mamoru Miura, Takashi Nammoto, Daniel Nikovski, Toshisada Mariyama, “Trajectory Optimization for Unknown Constrained Systems using Reinforcement Learning”, IROS2019. [arXiv](https://arxiv.org/abs/1903.05751).
+1. **Kei Ohta**, Takehiko Koike, Yoichi Yatsu, and Saburo Matunaga, "On-board Satellite Imagery Classification using Convolutional Neural Networks," 31st International Symposium on Space Technology and Science, 2017-n-10, Matsuyama, Japan, June 3-9, 2017.
+1. Yuhei Kikuya, Masanori Matsushita, Masaya Koga, **Kei Ohta**, Yuki Hayashi, Takehiko Koike, Toshiki Ozawa, Yoichi Yatsu, and Saburo Matunaga ,"Fault Tolerant Circuit Design for Low-cost and Multi-Functional Attitude Sensor Using Real-time Image Recognition," *31st International Symposium on Space Technology and Science*, 2017-f-093, Matsuyama, Japan, June 3-9, 2017.
+1. **Kei Ohta**, Masaya Koga, Sota Suzuki, Kazuyoshi Miyasato, Shota Kawajiri, EuGene Kim and Saburo Matunaga, "Proposal and Results of an Automatic Operation System for Nano Satellites Using Multiple Ground Stations", 30th International Symposium on Space Technology and Science, 2015-j-19, Kobe, Japan, July 6-10, 2015.
 
 ### Domestic conference
 
@@ -49,4 +50,3 @@ author_profile: true
 ## Journal publications
 
 1. 毬山利貞，**太田佳**，"技術解説「強化学習の基礎と実用化に向けた課題」"，映像情報メディア学会誌，2019年3月号．
-
