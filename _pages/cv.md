@@ -12,12 +12,13 @@ redirect_from:
 ## Education
 - B.S. in Aerospace Engineering, Tokyo Institute of Technology, 2015
 - M.S. in Mechanical and Aerospace Engineering, Tokyo Institute of Technology, 2017
+- PhD in School of Computing, Tokyo Institute of Technology, 2021~
 
 ## Work experience
 * 11/2013 ~ 6/2016: Internship
   * [AXELSPACE](https://www.axelspace.com/)
 * 4/2017 ~ Now
-  * Mitsubishi Electric Corporation
+  * [Mitsubishi Electric Corporation, Information Technology R&D Center](Information Technology R&D Center)
 
 ## Code
 
@@ -83,17 +84,19 @@ Please check [portfolio](https://keiohta.github.io/portfolio/)!
 
 ## Academic Activities
 
-#### Reviewers
+### Presentations
 
-1. Reviewer for IEEE Robotics and Automation Letters (RA-L), 2021.
-1. Reviewer for IEEE/RSJ International Conference on Robotics and Automation (ICRA), 2021.
-1. Reviewer for IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2019, 2020.
+- Tutorial talk, ["深層強化学習の基礎・応用"](http://cvim.ipsj.or.jp/MIRU2021/p_tutorial/#tutorial-ohta)，MIRU2021.
+
+#### Program Committees
+
+- Reviewer for IEEE RA-L,  ICRA, IROS, [MRVC-2021@ACML](https://mrvc-2021.net/), [EcoRL2021@NeurIPS](https://sites.google.com/view/ecorl2021/home).
 
 #### Teaching
 
-1. [Deep Reinforcement Learning Spring Seminar (RLSP2021)](https://deeplearning.jp/reinforcement_course-2021sp-2/), The University of Tokyo.
-
-   I taught a course on deep reinforcement learning at The University of Tokyo in Spring 2021. The course takes a broad (deep) RL algorithms including policy gradient, REINFORCE, actor-critic, PPO, DDPG, TD3, SAC. I co-designed the whole course structure and the teaching material for my class (one of six).
-
-2. [Deep Reinforcement Learning Summer School (RLSS2020)](https://deeplearning.jp/reinforcement_cource-2020s/), The University of Tokyo.
-   Teaching Assistant for model-based RL class.
+- Instructor
+  - Deep Reinforcement Learning [Spring Seminar 2021](https://deeplearning.jp/reinforcement_course-2021sp-2/), [Autumun Seminar 2021](https://deeplearning.jp/drl-course-2021a/), The University of Tokyo.
+    I taught a course on deep reinforcement learning at The University of Tokyo in Spring 2021. The course takes a broad (deep) RL algorithms including policy gradient, REINFORCE, actor-critic, PPO, DDPG, TD3, SAC. I co-designed the whole course structure and the teaching material for my class (one of six).
+- Teachnig Assistant
+  - [Deep Reinforcement Learning Summer School (RLSS2020)](https://deeplearning.jp/reinforcement_cource-2020s/), The University of Tokyo.
+    Teaching Assistant for model-based RL class.

@@ -20,6 +20,7 @@ author_profile: true
 ## All publications
 ### International conference
 
+1. **Kei Ota**, Devesh K Jha, Diego Romeres, Jeroen van Baar, Kevin A Smith, Takayuki Semitsu, Tomoaki Oiki, Alan Sullivan, Daniel Nikovski, Joshua B Tenenbaum, "Data-Efficient Learning for Complex and Real-Time Physical Problem Solving using Augmented Simulation", RA-L + ICRA2021. [arXiv](http://128.84.4.27/abs/2011.07193).
 1. **Kei Ota**, Devesh K. Jha, Tadashi Onishi, Asako Kanezaki, Yusuke Yoshiyasu, Yoko Sasaki, Toshisada Mariyama, Daniel Nikovski, “Deep Reactive Planning in Dynamic Environments”, CoRL2020. [arXiv](https://arxiv.org/abs/2011.00155).
 1. **Kei Ota**, Yoko Sasaki, Devesh K Jha, Yusuke Yoshiyasu, Asako Kanezaki, “Efficient Exploration in Constrained Environments with Goal-Oriented Reference Path”, IROS2020. [arXiv](https://arxiv.org/abs/2003.01641).
 1. **Kei Ota**, Tomoaki Oiki, Devesh K. Jha, Toshisada Mariyama, Daniel Nikovski, “Can Increasing Input Dimensionality Improve Deep Reinforcement Learning?”, ICML2020. [arXiv](https://arxiv.org/abs/2003.01629).
@@ -52,7 +53,8 @@ author_profile: true
 
 ## Journal publications
 
-1. 毬山利貞，**太田佳**，"技術解説「強化学習の基礎と実用化に向けた課題」"，映像情報メディア学会誌，2019年3月号．
+1. **太田佳**，金崎朝子，「動的環境下におけるロボットの動作生成」，日本ロボット学会誌，2021年 39 巻 7 号 p. 581-586．
+2. 毬山利貞，**太田佳**，"技術解説「強化学習の基礎と実用化に向けた課題」"，映像情報メディア学会誌，2019年3月号．
 
 ## Preprint
-1. **Kei Ota**, Devesh K. Jha, Diego Romeres, Jeroen van Baar, Kevin A. Smith, Takayuki Semitsu, Tomoaki Oiki, Alan Sullivan, Daniel Nikovski, Joshua B. Tenenbaum, “Towards Human-Level Learning of Complex Physical Puzzles,” arXiv, 2020. [arxiv](https://arxiv.org/abs/2011.07193).
+1. Hana Hoshino, **Kei Ota**, Asako Kanezaki, Rio Yokota, OPIRL: Sample Efficient Off-Policy Inverse Reinforcement Learning via Distribution Matching, arXiv preprint [arXiv:2109.04307](https://arxiv.org/abs/2109.04307).
