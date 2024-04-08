@@ -58,17 +58,6 @@ redirect_from:
     - Model-based RL to solve complex navigation task
 
 ## Publications
-### International Conference
-
-1. **Kei Ota**, Devesh K Jha, Diego Romeres, Jeroen van Baar, Kevin A Smith, Takayuki Semitsu, Tomoaki Oiki, Alan Sullivan, Daniel Nikovski, Joshua B Tenenbaum, "Data-Efficient Learning for Complex and Real-Time Physical Problem Solving using Augmented Simulation", RA-L + ICRA2021. [arXiv](http://128.84.4.27/abs/2011.07193).
-2. **Kei Ota**, Devesh K. Jha, Tadashi Onishi, Asako Kanezaki, Yusuke Yoshiyasu, Yoko Sasaki, Toshisada Mariyama, Daniel Nikovski, “Deep Reactive Planning in Dynamic Environments”, CoRL2020. [arXiv](https://arxiv.org/abs/2011.00155).
-3. **Kei Ota**, Yoko Sasaki, Devesh K Jha, Yusuke Yoshiyasu, Asako Kanezaki, “Efficient Exploration in Constrained Environments with Goal-Oriented Reference Path”, IROS2020. [arXiv](https://arxiv.org/abs/2003.01641).
-4. **Kei Ota**, Tomoaki Oiki, Devesh K. Jha, Toshisada Mariyama, Daniel Nikovski, “Can Increasing Input Dimensionality Improve Deep Reinforcement Learning?”, ICML2020. [arXiv](https://arxiv.org/abs/2003.01629).
-5. **Kei Ota**, Devesh K. Jha, Tomoaki Oiki, Mamoru Miura, Takashi Nammoto, Daniel Nikovski, Toshisada Mariyama, “Trajectory Optimization for Unknown Constrained Systems using Reinforcement Learning”, IROS2019. [arxiv](https://arxiv.org/abs/1903.05751).
-6. **Kei Ohta**, Takehiko Koike, Yoichi Yatsu, and Saburo Matunaga, "On-board Satellite Imagery Classification using Convolutional Neural Networks," 31st International Symposium on Space Technology and Science, 2017-n-10, Matsuyama, Japan, June 3-9, 2017.
-7. Yuhei Kikuya, Masanori Matsushita, Masaya Koga, **Kei Ohta**, Yuki Hayashi, Takehiko Koike, Toshiki Ozawa, Yoichi Yatsu, and Saburo Matunaga ,"Fault Tolerant Circuit Design for Low-cost and Multi-Functional Attitude Sensor Using Real-time Image Recognition," *31st International Symposium on Space Technology and Science*, 2017-f-093, Matsuyama, Japan, June 3-9, 2017.
-8. **Kei Ohta**, Masaya Koga, Sota Suzuki, Kazuyoshi Miyasato, Shota Kawajiri, EuGene Kim and Saburo Matunaga, "Proposal and Results of an Automatic Operation System for Nano Satellites Using Multiple Ground Stations", 30th International Symposium on Space Technology and Science, 2015-j-19, Kobe, Japan, July 6-10, 2015.
-
 See all publications [here](/publications/).
 
 ## Awards
