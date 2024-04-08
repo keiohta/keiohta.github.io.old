@@ -18,7 +18,7 @@ author_profile: true
 
 ## All publications
 ### Journal publications
-1. **Kei Ota**, “Training larger networks for deep reinforcement learning,” Machine Learning Journal, (to be appeared), [arxiv](https://arxiv.org/abs/2102.07920)
+1. **Kei Ota**, “A Framework for Training Larger Networks for Deep Reinforcement Learning,” Machine Learning Journal, (to be appeared), [arxiv](https://arxiv.org/abs/2102.07920)
 1. Yuhei Kikuya, **Kei Ota**, Yohei Iwasaki, Toshiki Ozawa, Kei Watanabe, Yoichi Yatsu, Saburo Matunaga, “Development and In-Orbit Operation of Deep Learning Attitude Sensor,” Journal of Spacecraft and Rockets, 2023.
 1. **Kei Ota**, Devesh K Jha, Diego Romeres, Jeroen van Baar, Kevin A Smith, Takayuki Semitsu, Tomoaki Oiki, Alan Sullivan, Daniel Nikovski, Joshua B Tenenbaum, “Data-Efficient Learning for Complex and Real-Time Physical Problem Solving using Augmented Simulation,” RA-L + ICRA2021. [arXiv](http://128.84.4.27/abs/2011.07193).
 2. **太田佳**, 「ロボットの動作生成のための強化学習」, 人工知能, 2022, 37 巻, 4 号, p. 499-506.
