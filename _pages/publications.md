@@ -18,7 +18,7 @@ author_profile: true
 
 ## All publications
 ### Journal publications
-1. **Kei Ota**, “Training larger networks for deep reinforcement learning,” Machine Learning Journal, (to be appeared), [arxiv][https://arxiv.org/abs/2102.07920]
+1. **Kei Ota**, “Training larger networks for deep reinforcement learning,” Machine Learning Journal, (to be appeared), [arxiv](https://arxiv.org/abs/2102.07920)
 1. Yuhei Kikuya, **Kei Ota**, Yohei Iwasaki, Toshiki Ozawa, Kei Watanabe, Yoichi Yatsu, Saburo Matunaga, “Development and In-Orbit Operation of Deep Learning Attitude Sensor,” Journal of Spacecraft and Rockets, 2023.
 1. **Kei Ota**, Devesh K Jha, Diego Romeres, Jeroen van Baar, Kevin A Smith, Takayuki Semitsu, Tomoaki Oiki, Alan Sullivan, Daniel Nikovski, Joshua B Tenenbaum, “Data-Efficient Learning for Complex and Real-Time Physical Problem Solving using Augmented Simulation,” RA-L + ICRA2021. [arXiv](http://128.84.4.27/abs/2011.07193).
 2. **太田佳**, 「ロボットの動作生成のための強化学習」, 人工知能, 2022, 37 巻, 4 号, p. 499-506.
@@ -36,7 +36,7 @@ author_profile: true
 1. **Kei Ota**, Devesh K. Jha, Tadashi Onishi, Asako Kanezaki, Yusuke Yoshiyasu, Yoko Sasaki, Toshisada Mariyama, Daniel Nikovski, “Deep Reactive Planning in Dynamic Environments”, CoRL2020. [arXiv](https://arxiv.org/abs/2011.00155).
 1. **Kei Ota**, Yoko Sasaki, Devesh K Jha, Yusuke Yoshiyasu, Asako Kanezaki, “Efficient Exploration in Constrained Environments with Goal-Oriented Reference Path”, IROS2020. [arXiv](https://arxiv.org/abs/2003.01641).
 1. **Kei Ota**, Tomoaki Oiki, Devesh K. Jha, Toshisada Mariyama, Daniel Nikovski, “Can Increasing Input Dimensionality Improve Deep Reinforcement Learning?”, ICML2020. [arXiv](https://arxiv.org/abs/2003.01629).
-1. **Kei Ota**, Devesh K. Jha, Tomoaki Oiki, Mamoru Miura, Takashi Nammoto, Daniel Nikovski, Toshisada Mariyama, “Trajectory Optimization for Unknown Constrained Systems using Reinforcement Learning”, IROS2019. [arXiv](https://arxiv.org/abs/1903.05751).
+1. **Kei Ota**, Devesh K. Jha, Tomoaki Oiki, Mamoru Miura, Takashi Nammoto, Daniel Nikovski, Toshisada Mariyama, “Trajectory Optimization for Unknown Constrained Systems using Reinforcement Learning”, IROS, 2019. [arXiv](https://arxiv.org/abs/1903.05751).
 1. **Kei Ota**, Takehiko Koike, Yoichi Yatsu, and Saburo Matunaga, “On-board Satellite Imagery Classification using Convolutional Neural Networks,” 31st International Symposium on Space Technology and Science, 2017-n-10, Matsuyama, Japan, June 3-9, 2017.
 1. Yuhei Kikuya, Masanori Matsushita, Masaya Koga, **Kei Ota**, Yuki Hayashi, Takehiko Koike, Toshiki Ozawa, Yoichi Yatsu, and Saburo Matunaga ,“Fault Tolerant Circuit Design for Low-cost and Multi-Functional Attitude Sensor Using Real-time Image Recognition,” *31st International Symposium on Space Technology and Science*, 2017-f-093, Matsuyama, Japan, June 3-9, 2017.
 1. Yoichi Yatsu, Nobuyuki Kawai, Masanori Matsushita, Shota Kawajiri, Kyosuke Tawara, **Kei Ota**, Masaya Koga, Saburo Matunaga, Shin'ichi Kimura. “What we learned from the Tokyo Tech 50 kg-satellite “TSUBAME”,” Small Satellite Conference 2017, Small Satellite Conference, 2017.
