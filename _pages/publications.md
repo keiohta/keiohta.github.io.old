@@ -18,7 +18,7 @@ author_profile: true
 
 ## All publications
 ### Journal publications
-1. **Kei Ota**, “A Framework for Training Larger Networks for Deep Reinforcement Learning,” Machine Learning Journal, (to be appeared), [arxiv](https://arxiv.org/abs/2102.07920)
+1. **Kei Ota**, Devesh K. Jha, Asako Kanezaki, “A Framework for Training Larger Networks for Deep Reinforcement Learning,” Machine Learning Journal, 2024. [arxiv](https://arxiv.org/abs/2102.07920)
 1. Yuhei Kikuya, **Kei Ota**, Yohei Iwasaki, Toshiki Ozawa, Kei Watanabe, Yoichi Yatsu, Saburo Matunaga, “Development and In-Orbit Operation of Deep Learning Attitude Sensor,” Journal of Spacecraft and Rockets, 2023.
 1. **Kei Ota**, Devesh K Jha, Diego Romeres, Jeroen van Baar, Kevin A Smith, Takayuki Semitsu, Tomoaki Oiki, Alan Sullivan, Daniel Nikovski, Joshua B Tenenbaum, “Data-Efficient Learning for Complex and Real-Time Physical Problem Solving using Augmented Simulation,” RA-L + ICRA2021. [arXiv](http://128.84.4.27/abs/2011.07193).
 2. **太田佳**, 「ロボットの動作生成のための強化学習」, 人工知能, 2022, 37 巻, 4 号, p. 499-506.
@@ -26,6 +26,7 @@ author_profile: true
 1. 毬山利貞，**太田佳**，"技術解説「強化学習の基礎と実用化に向けた課題」"，映像情報メディア学会誌，2019年3月号．
 
 ### International conference
+1. **Kei Ota**, Devesh K Jha, Siddarth Jain, Bill Yerazunis, Radu Corcodel, Yash Shukla, Antonia Bronars, Diego Romeres, “Autonomous Robotic Assembly: From Part Singulation to Precise Assembly,” IROS, 2024. [arxiv](https://arxiv.org/abs/2406.05331)
 1. Boyuan Liang, **Kei Ota**, Masayoshi Tomizuka, Devesh Jha, “Robust In-Hand Manipulation with Extrinsic Contacts,” ICRA, 2024. [arxiv](https://arxiv.org/abs/2403.18960)
 1. **Kei Ota**, Devesh Jha, Krishna Murthy Jatavallabhula, Asako Kanezaki, and Joshua B. Tenenbaum, “Tactile Estimation of Extrinsic Contact Patch for Stable Placement,” ICRA, 2024. [arxiv](https://arxiv.org/abs/2309.14552)
 1. **Kei Ota**, Devesh K Jha, Hsiao-Yu Tung, Joshua B Tenenbaum, “Tactile-Filter: Interactive Tactile Perception for Part Mating,” RSS, 2023. [arxiv](https://arxiv.org/abs/2303.06034)
@@ -64,6 +65,7 @@ author_profile: true
 1. **太田佳**，"複数地上局を用いた超小型衛星用自動運用システムの開発"", University Space Engineering Consortium Workshop (UNISEC-WS 2014), 堺，2014年12月6-7日．
 
 ### Workshops
+1. Motonari Kambara, Chiori Hori, Komei Sugiura, **Kei Ota**, Devesh K Jha, Sameer Khurana, Siddarth Jain, Radu Corcodel, Diego Romeres, Jonathan Le Roux, “Human Action Understanding-based Robot Planning using Multimodal LLM,” ICRA Workshop, 2024. [paper](https://www.merl.com/publications/docs/TR2024-066.pdf)
 1. **Kei Ota**, Siddarth Jain, Mengchao Zhang, Devesh K Jha, “Tactile Pose Feedback for Closed-loop Manipulation Tasks,” RSS Workshop, 2023. [paper](https://www.merl.com/publications/docs/TR2023-082.pdf)
 
 ## Preprint
